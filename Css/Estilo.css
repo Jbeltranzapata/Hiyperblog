@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
 #cabecera{
     font-family: 'Special Elite', cursive;
     background: #614BC3;
@@ -22,5 +23,18 @@
     text-align: justify;
     display: flex;
     justify-content: center;
+}
+#titulocabecera{
+    font-family: 'Tilt Prism', cursive;
+    font-size: 29px;
+    display: flex;
+    justify-content: center;
+    color: whitesmoke;
+    background: #068FFF;
+    margin-left: 136px;
+    margin-right: 136px;
+    margin-top: 5px;
+    text-align: center;
+    border-radius: 30px;
 
 }
