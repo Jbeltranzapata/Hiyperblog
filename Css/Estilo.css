@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
 
 #titulocabecera{
     font-family: 'Tilt Prism', cursive;
@@ -13,8 +15,6 @@
     text-align: center;
     border-radius: 30px;
 }
-@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
 #cabecera{
     font-family: 'Shadows Into Light', cursive;
     background: #614BC3;
