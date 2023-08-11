@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
 #cabecera{
-    font-family: 'Special Elite', cursive;
+    font-family: 'Shadows Into Light', cursive;
     background: #614BC3;
     display: flex;
     justify-content: center;
@@ -13,14 +15,21 @@
     border: 1px solid black;
 }
 #parrafo{
-    font-family: 'Poiret One', cursive;
     border: 1px solid black;
     margin-bottom: 5px;
     margin-top: 5px;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 136px;
+    margin-right: 136px;
     text-align: justify;
     display: flex;
     justify-content: center;
-
+    font-family: 'Shadows Into Light', cursive;
+    font-size: x-large;
+    
+}
+#titulo2{
+    display: flex;
+    text-align: right;
+    margin-left: 136px;
+    font-family: 'Permanent Marker', cursive;
 }
